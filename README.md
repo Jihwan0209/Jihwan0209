@@ -1,35 +1,77 @@
-<p align="center"> <b>백엔드 개발자 김지환입니다.</b><br/> <b>데이터가 어긋나지 않게 만들고, 숫자로 개선을 확인합니다.</b> </p> <p align="center"> <a href="mailto:jihwangim09@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a> <a href="https://github.com/Jihwan0209"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> <a href="https://flint-teeth-0a1.notion.site/KDT-406c2ca8ee018047ad85e1c5aee4c300?source=copy_link"><img src="https://img.shields.io/badge/NOTION-111111?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/></a> </p>
-Tech Stack
+<p align="center">
+  <b>백엔드 개발자 김지환입니다.</b><br/>
+  <b>데이터가 어긋나지 않게 만들고, 숫자로 개선을 확인합니다.</b>
+</p>
+
+<p align="center">
+  <a href="mailto:jihwangim09@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="https://github.com/Jihwan0209"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://flint-teeth-0a1.notion.site/KDT-406c2ca8ee018047ad85e1c5aee4c300?source=copy_link"><img src="https://img.shields.io/badge/NOTION-111111?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/></a>
+</p>
+
+<h2>Tech Stack</h2>
+
 <div align="center">
-
-Backend & Database<br/> <img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="backend"/><br/> <sub>JPA · Flyway</sub>
-
-Python / Frontend / Infra<br/> <img src="https://skillicons.dev/icons?i=python,react,docker,aws,githubactions,git" alt="etc"/><br/> <sub>k6 · ChatGPT API</sub>
-
+<b>Backend &amp; Database</b><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="backend"/><br/>
+<sub>JPA · Flyway</sub>
+<br/><br/>
+<b>Python / Frontend / Infra</b><br/>
+<img src="https://skillicons.dev/icons?i=python,react,docker,aws,githubactions,git" alt="etc"/><br/>
+<sub>k6 · ChatGPT API</sub>
 </div>
-📌 Projects
-🏭 FIRST-IN · 식품 3PL 창고관리 시스템 (WMS)
 
-2026.09 – 10 · 정규 프로젝트 · 4인 · 출고 도메인 백엔드 담당
+<h2>Projects</h2>
 
-소비기한이 빠른 LOT부터 자동으로 할당하는 FEFO 할당 구현
-조건부 UPDATE로 동시성 제어 (과할당 3건 → 0건, 500 에러 58% → 0%)
-k6 부하 테스트로 P95 응답 시간 151ms → 116ms 개선
-Java Spring Boot JPA MySQL Flyway k6
-👶 첫걸음 · AIoT 기반 신생아 케어 보조 시스템
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🏭 FIRST-IN</h3>
+<b>식품 3PL 창고관리 시스템 (WMS)</b> · 정규 프로젝트 · 4인 · 2026.09 ~ 10
+<br/><br/>
+소비기한(LOT) 기반으로 입고부터 출고까지 재고를 관리하는 창고관리 시스템입니다.
+<br/><br/>
+<b>My Role</b> — 출고 도메인 백엔드. FEFO 할당, QR 피킹, 출고 확정
+<br/><br/>
+<b>성과</b> — 조건부 UPDATE로 동시성을 제어해 <b>과할당 3건 → 0건, 500 에러 58% → 0%</b>. k6 부하 테스트로 <b>P95 151ms → 116ms</b> 개선
+<br/><br/>
+<code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code> <code>Flyway</code> <code>React</code> <code>Docker</code> <code>AWS</code> <code>GitHub Actions</code> <code>k6</code>
+<br/><br/>
+<a href="https://github.com/Jihwan0209/WMS"><img src="https://img.shields.io/badge/WMS-REPO-6DB33F?style=for-the-badge&logo=github&labelColor=333333" alt="repo"/></a>
+</td>
+<td width="50%" valign="top">
+<h3>👶 첫걸음</h3>
+<b>AIoT 기반 신생아 케어 보조 시스템</b> · 졸업작품 · 팀
+<br/><br/>
+카메라·센서로 아기 상태를 수집하고, AI 수면 리포트와 케어 가이드를 보호자 앱으로 보여주는 서비스입니다.
+<br/><br/>
+<b>My Role</b> — AI 육아 리포트 흐름·프롬프트 설계, ERD 설계
+<br/><br/>
+<b>설계</b> — 수면 상태는 서버가 룰 기반으로 확정하고 GPT는 문장 생성만 맡도록 역할 분리. 앱 연동을 위해 리포트 출력을 JSON 5개 키로 고정
+<br/><br/>
+<code>ChatGPT API</code> <code>ERD</code>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🛵 DDIP</h3>
+<b>배달 서비스</b> · 정규 프로젝트 2차 · 팀 · 진행 중
+<br/><br/>
+<b>My Role</b> — 백엔드
+</td>
+</tr>
+</table>
 
-졸업작품 · 팀 · AI 육아 리포트 흐름·프롬프트 설계 / ERD 설계
+<h2>Certificate</h2>
 
-수면 상태는 서버가 룰 기반으로 확정하고, GPT는 문장 생성만 맡도록 역할을 분리
-앱 연동을 위해 리포트 출력을 JSON 5개 키로 고정
-ChatGPT API ERD
-🛵 DDIP · 배달 서비스 (진행 중)
+<table>
+<tr><th>자격증</th><th>취득</th></tr>
+<tr><td>정보처리기사</td><td>2026.06</td></tr>
+</table>
 
-2026 · 정규 프로젝트 2차 · 팀 · 백엔드
+<h2>GitHub Stats</h2>
 
-🎓 Certificate
-자격증	취득
-정보처리기사	2026.06
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0209&layout=compact&hide_border=true&theme=default"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Jihwan0209&hide_border=true&theme=default" alt="streak"/> </p>
-<p align="center"> <a href="https://github.com/Jihwan0209?tab=repositories">Repositories 보러가기</a> </p>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0209&layout=compact&hide_border=true&theme=default"/>
+  <img src="https://streak-stats.demolab.com?user=Jihwan0209&hide_border=true&theme=default" alt="streak" height="170"/>
+</p>
