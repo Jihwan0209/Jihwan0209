@@ -1,8 +1,7 @@
 <h1 align="center">안녕하세요, 김지환입니다 👋</h1>
 
 <p align="center">
-  <b>Java / Spring 백엔드 개발자</b>를 준비하고 있습니다.<br/>
-  데이터가 어긋나지 않게 만드는 일, 그리고 숫자로 개선을 확인하는 일을 좋아합니다.
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1500&color=111111&center=true&vCenter=true&width=600&lines=Java+%2F+Spring+Backend+Developer;데이터가+어긋나지+않게+만드는+개발자;숫자로+개선을+확인하는+개발자" alt="typing"/>
 </p>
 
 <p align="center">
@@ -13,20 +12,25 @@
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+**Backend**<br/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+**Database**<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
+
+**DevOps · Test**<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+
+**Etc**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/ChatGPT_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 ---
 
@@ -52,11 +56,22 @@
 
 ---
 
+## 🎓 Certificate
+
+| 자격증 | 취득 |
+| --- | --- |
+| 정보처리기사 | 2026.06 |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jihwan0209&show_icons=true&hide_border=true&theme=default"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0209&layout=compact&hide_border=true&theme=default"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jihwan0209&hide_border=true&theme=default" alt="streak"/>
 </p>
 
 ---
