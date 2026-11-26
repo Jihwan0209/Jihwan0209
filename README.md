@@ -37,7 +37,8 @@
 <br/><br/>
 <code>Java</code> <code>Spring Boot</code> <code>JPA</code> <code>MySQL</code> <code>Flyway</code> <code>React</code> <code>Docker</code> <code>AWS</code> <code>GitHub Actions</code> <code>k6</code>
 <br/><br/>
-<a href="https://github.com/Jihwan0209/WMS"><img src="https://img.shields.io/badge/WMS-REPO-6DB33F?style=for-the-badge&logo=github&labelColor=333333" alt="repo"/></a>
+<a href="https://github.com/Jihwan0209/First_in/tree/main/wms-core"><img src="https://img.shields.io/badge/BACKEND-REPO-6DB33F?style=for-the-badge&logo=springboot&labelColor=333333" alt="backend repo"/></a>
+<a href="https://github.com/Jihwan0209/First_in/tree/main/frontend"><img src="https://img.shields.io/badge/FRONTEND-REPO-61DAFB?style=for-the-badge&logo=react&labelColor=333333" alt="frontend repo"/></a>
 </td>
 <td width="50%" valign="top">
 <h3>👶 첫걸음</h3>
@@ -50,6 +51,8 @@
 <b>설계</b> — 수면 상태는 서버가 룰 기반으로 확정하고 GPT는 문장 생성만 맡도록 역할 분리. 앱 연동을 위해 리포트 출력을 JSON 5개 키로 고정
 <br/><br/>
 <code>ChatGPT API</code> <code>ERD</code>
+<br/><br/>
+<a href="https://github.com/Jihwan0209/BabyCare"><img src="https://img.shields.io/badge/BABYCARE-REPO-6DB33F?style=for-the-badge&logo=github&labelColor=333333" alt="repo"/></a>
 </td>
 </tr>
 <tr>
@@ -62,16 +65,34 @@
 </tr>
 </table>
 
-<h2>Certificate</h2>
+<h2>Study</h2>
 
 <table>
-<tr><th>자격증</th><th>취득</th></tr>
-<tr><td>정보처리기사</td><td>2026.06</td></tr>
+<tr><th>Repository</th><th>Description</th><th>Language</th></tr>
+<tr><td><a href="https://github.com/Jihwan0209/Backend">Backend</a></td><td>Java 백엔드 학습</td><td>Java</td></tr>
+<tr><td><a href="https://github.com/Jihwan0209/Springweb">Springweb</a></td><td>Spring Boot 웹 개발 학습</td><td>Java</td></tr>
+<tr><td><a href="https://github.com/Jihwan0209/Python">Python</a></td><td>Python 기초 및 실습</td><td>Python</td></tr>
+<tr><td><a href="https://github.com/Jihwan0209/Python_TP">Python_TP</a></td><td>Python 실습 프로젝트</td><td>Python</td></tr>
+<tr><td><a href="https://github.com/Jihwan0209/React">React</a></td><td>React 학습</td><td>JavaScript</td></tr>
+<tr><td><a href="https://github.com/Jihwan0209/Frontend">Frontend</a></td><td>프론트엔드 학습</td><td>JavaScript</td></tr>
+<tr><td><a href="https://github.com/Jihwan0209/miniproject2">miniproject2</a></td><td>Java 미니 프로젝트 2</td><td>Java</td></tr>
+</table>
+
+<h2>About</h2>
+
+<table>
+<tr><th>학력</th><td>성결대학교 정보통신공학과</td></tr>
+<tr><th>교육</th><td>AI 풀스택 부트캠프 수료 (2026.07 — 2026.12)</td></tr>
+<tr><th>자격증</th><td>정보처리기사 · 2026.06</td></tr>
+<tr><th>수상</th><td>ICT 통합 설계 경진대회 · 2025.12 (교내)</td></tr>
 </table>
 
 <h2>GitHub Stats</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihwan0209&layout=compact&hide_border=true&theme=default"/>
-  <img src="https://streak-stats.demolab.com?user=Jihwan0209&hide_border=true&theme=default" alt="streak" height="170"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Jihwan0209&hide_border=true&theme=default" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jihwan0209&theme=github-compact&hide_border=true" alt="activity graph"/>
 </p>
